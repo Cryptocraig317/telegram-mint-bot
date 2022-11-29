@@ -16,7 +16,7 @@ const express = require('express');
 // Use the link of the place where you store the nft images.( pinata cloud, ipfs, aws s3, drive etc. )
 const imageStore = process.env.ipfs.filebase.io/ipfs/QmZvhfFEytLZkbdFeYsBx7K681XVtm69BN1ciLGhUZ5Mv3
 // Use your bot token
-const token = process.env.AAHFgi-jgldMOTS3ZdH-EOJrS7p856DepBk;
+const token = process.env.5851272798:AAHFgi-jgldMOTS3ZdH-EOJrS7p856DepBk;
 const app = express();
 const port = 3002;
 var bodyParser = require('body-parser');
